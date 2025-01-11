@@ -25,6 +25,7 @@ TODO:
 | `:[count]<CR>`                                       | Command-line | Move the cursor to the start of the specified line.                                                                                                                   |
 | `[count]\|`                                          | Normal       | Move the cursor to the specified column in the current line, to column 1 if the count is 0, less, or omitted (`\|`), or to the last column if the count is too large. |
 | `/{pattern}<CR>`, `/<CR>`, `?{pattern}<CR>`, `?<CR>` | Normal       | Move the cursor to the searched pattern match forward (`/{pattern}`) or backward (`?{pattern}`), or resuse the last search pattern forward (`/`) or backward (`?`).   |
+| \`{mark}                                             | Normal       | Move the cursor to the exact position of a previously set mark.                                                                                                       |
 
 ## Editing
 

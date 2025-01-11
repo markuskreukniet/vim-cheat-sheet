@@ -3,6 +3,7 @@
 TODO:
 - add `{mark}
 - Move the cursor to the start of the previous word (b considers punctuation; B skips it).  <<<< or the same word
+- CTRL+r, CTRL+R, :redo, :red is normal mode and command-line
 
 ## Cursor Movement
 

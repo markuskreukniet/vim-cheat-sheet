@@ -53,7 +53,7 @@ TODO:
 | ---------------------------------------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | `zt`, `z<CR>`, `zz`, `z.`, `zb`, `z-`          | Normal       | Scroll the screen to the top (and center the cursor) (`zt` or `z<CR>`), the center of the screen (`zz` or `z.`), or the bottom (`zb` or `z-`).  |
 | `Esc`                                          | Any          | Return to Normal mode.                                                                                                                          |
-| `:marks`, `:delm {marks}`                      | Command-line | Display a list of all marks in the buffer (`:marks`) or delete specified marks (`:delm {marks}`).                                               |
+| `:marks`, `:delm {marks}`, `:delm!`            | Command-line | Display a list of all marks in the buffer (`:marks`), delete specified marks (`:delm {marks}`), or delete all lowercase marks (`:delm!`).       |
 | `:set nu<CR>`, `:set nonu<CR>`, `:set nu!<CR>` | Command-line | Show line numbers (`:set nu<CR>`), hide line numbers (`:set nonu<CR>`), or toggle line numbering (`:set nu!<CR>`).                              |
 | `:w<CR>`                                       | Command-line | Save the current file.                                                                                                                          |
 | `:q<CR>`                                       | Command-line | Quit Vim.                                                                                                                                       |

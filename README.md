@@ -2,6 +2,7 @@
 
 TODO:
 - CTRL+r, CTRL+R, :redo, :red is normal mode and command-line. Also, `u`, `:u`, `:undo`
+- I
 - https://jeffkreeftmeijer.com/vim-number/
 
 ## Cursor Movement

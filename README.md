@@ -1,7 +1,6 @@
 # vim-cheat-sheet
 
 TODO:
-- I
 - https://jeffkreeftmeijer.com/vim-number/
 
 ## Cursor Movement

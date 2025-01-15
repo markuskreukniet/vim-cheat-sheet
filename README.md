@@ -1,7 +1,6 @@
 # vim-cheat-sheet
 
 TODO:
-- CTRL+r, CTRL+R, :redo, :red is normal mode and command-line. Also, `u`, `:u`, `:undo`
 - I
 - https://jeffkreeftmeijer.com/vim-number/
 
@@ -30,17 +29,17 @@ TODO:
 
 ## Editing
 
-| Command                             | Mode   | Description                                                                                                                      |
-| ----------------------------------- | ------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| `x`, `X`                            | Normal | Delete the character under (`x`) or before (`X`) the cursor.                                                                     |
-| `d`, `D`                            | Normal | Delete from the cursor to a motion (`d`) or to the end of the line (`D`).                                                        |
-| `c`, `C`, `c$`                      | Normal | Change (delete and enter Insert mode) from the cursor to a motion (`c`) or to the end of the line (`C`, `c$`).                   |
-| `y`, `Y`                            | Normal | Yank (copy) text from the cursor to a motion (`y`) or yank the entire line (`Y`).                                                |
-| `r`, `R`                            | Normal | Replace a single character under the cursor (`r`) or enter Replace mode under the cursor to overwrite multiple characters (`R`). |
-| `~`                                 | Normal | Switch the case of the character under the cursor.                                                                               |
-| `p`, `P`                            | Normal | Paste the text from the unnamed register after (`p`) or before (`P`) the cursor.                                                 |
-| `CTRL+r`, `CTRL+R`, `:redo`, `:red` | Normal | Redo the last undone change.                                                                                                     |
-| `u`, `:u`, `:undo`                  | Normal | Undo the last change.                                                                                                            |
+| Command                             | Mode                    | Description                                                                                                                      |
+| ----------------------------------- | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| `x`, `X`                            | Normal                  | Delete the character under (`x`) or before (`X`) the cursor.                                                                     |
+| `d`, `D`                            | Normal                  | Delete from the cursor to a motion (`d`) or to the end of the line (`D`).                                                        |
+| `c`, `C`, `c$`                      | Normal                  | Change (delete and enter Insert mode) from the cursor to a motion (`c`) or to the end of the line (`C`, `c$`).                   |
+| `y`, `Y`                            | Normal                  | Yank (copy) text from the cursor to a motion (`y`) or yank the entire line (`Y`).                                                |
+| `r`, `R`                            | Normal                  | Replace a single character under the cursor (`r`) or enter Replace mode under the cursor to overwrite multiple characters (`R`). |
+| `~`                                 | Normal                  | Switch the case of the character under the cursor.                                                                               |
+| `p`, `P`                            | Normal                  | Paste the text from the unnamed register after (`p`) or before (`P`) the cursor.                                                 |
+| `CTRL+r`, `CTRL+R`, `:redo`, `:red` | Normal and Command-line | Redo the last undone change.                                                                                                     |
+| `u`, `:u`, `:undo`                  | Normal and Command-line | Undo the last change.                                                                                                            |
 
 
 ## Entering Insert Mode

@@ -2,6 +2,7 @@
 
 TODO:
 - https://jeffkreeftmeijer.com/vim-number/
+- (:substitute) :%s/<pattern>/<replacement>/g
 
 ## Cursor Movement
 

@@ -3,6 +3,7 @@
 TODO:
 - https://jeffkreeftmeijer.com/vim-number/
 - (:substitute) :%s/<pattern>/<replacement>/g
+- In normal mode, press "+p to paste from the system clipboard.
 
 ## Cursor Movement
 

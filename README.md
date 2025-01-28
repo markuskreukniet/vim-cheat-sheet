@@ -4,6 +4,7 @@ TODO:
 - https://jeffkreeftmeijer.com/vim-number/
 - (:substitute) :%s/<pattern>/<replacement>/g
 - In normal mode, press "+p to paste from the system clipboard.
+- :set diff & :set nodiff
 
 ## Cursor Movement
 

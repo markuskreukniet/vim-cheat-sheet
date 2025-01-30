@@ -5,6 +5,7 @@ TODO:
 - (:substitute) :%s/<pattern>/<replacement>/g
 - In normal mode, press "+p to paste from the system clipboard.
 - :set diff & :set nodiff
+- :ls! with !
 
 ## Cursor Movement
 

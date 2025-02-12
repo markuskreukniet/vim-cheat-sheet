@@ -9,6 +9,8 @@ TODO:
 - :set rnu
 - :Ex
 - " num p
+- multiple lines indenting forward and backward?
+- multtplie lines uncomment
 
 ## Cursor Movement
 

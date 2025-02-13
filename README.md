@@ -11,6 +11,7 @@ TODO:
 - " num p
 - multiple lines indenting forward and backward? >>, >, <<, <, V=
 - multtplie lines uncomment
+- delete buffer
 
 ## Cursor Movement
 

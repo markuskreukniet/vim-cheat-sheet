@@ -12,6 +12,7 @@ TODO:
 - multiple lines indenting forward and backward? >>, >, <<, <, V=
 - multtplie lines uncomment
 - delete buffer
+- [d and ]d, vim.diagnostic.goto_prev and next
 
 ## Cursor Movement
 
